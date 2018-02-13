@@ -1,0 +1,11 @@
+C:\Bit Bucket\UserSearch\UserSearch\bin\Debug\netcoreapp2.0\UserSearch.deps.json
+C:\Bit Bucket\UserSearch\UserSearch\bin\Debug\netcoreapp2.0\UserSearch.runtimeconfig.json
+C:\Bit Bucket\UserSearch\UserSearch\bin\Debug\netcoreapp2.0\UserSearch.runtimeconfig.dev.json
+C:\Bit Bucket\UserSearch\UserSearch\bin\Debug\netcoreapp2.0\UserSearch.dll
+C:\Bit Bucket\UserSearch\UserSearch\bin\Debug\netcoreapp2.0\UserSearch.pdb
+C:\Bit Bucket\UserSearch\UserSearch\obj\Debug\netcoreapp2.0\UserSearch.csprojResolveAssemblyReference.cache
+C:\Bit Bucket\UserSearch\UserSearch\obj\Debug\netcoreapp2.0\UserSearch.csproj.CoreCompileInputs.cache
+C:\Bit Bucket\UserSearch\UserSearch\obj\Debug\netcoreapp2.0\UserSearch.AssemblyInfoInputs.cache
+C:\Bit Bucket\UserSearch\UserSearch\obj\Debug\netcoreapp2.0\UserSearch.AssemblyInfo.cs
+C:\Bit Bucket\UserSearch\UserSearch\obj\Debug\netcoreapp2.0\UserSearch.dll
+C:\Bit Bucket\UserSearch\UserSearch\obj\Debug\netcoreapp2.0\UserSearch.pdb
