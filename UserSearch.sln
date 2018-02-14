@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserSearch", "UserSearch\UserSearch.csproj", "{831537A5-48AC-4DDB-AA76-0446A9232686}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserSearch", "UserSearch\UserSearch.csproj", "{58843C19-62F8-46AB-9B26-35AE0B1AE570}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{831537A5-48AC-4DDB-AA76-0446A9232686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{831537A5-48AC-4DDB-AA76-0446A9232686}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{831537A5-48AC-4DDB-AA76-0446A9232686}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{831537A5-48AC-4DDB-AA76-0446A9232686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58843C19-62F8-46AB-9B26-35AE0B1AE570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58843C19-62F8-46AB-9B26-35AE0B1AE570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58843C19-62F8-46AB-9B26-35AE0B1AE570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58843C19-62F8-46AB-9B26-35AE0B1AE570}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {81FA9AF6-D7D9-4500-AE5B-4FA5E9D1FB33}
+		SolutionGuid = {3CABD2A1-18BC-4D92-B399-948DD7C7A50E}
 	EndGlobalSection
 EndGlobal

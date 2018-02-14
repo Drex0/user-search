@@ -15,24 +15,16 @@ namespace UserSearch.Controllers
             return View();
         }
 
-        public IActionResult Welcome(string name, int numTimes = 1)
-        {
-            ViewData["Message"] = "Hello " + name;
-            ViewData["NumTimes"] = numTimes;
-
-            return View();
-        }
-
         public IActionResult About()
         {
-            ViewData["Message"] = "Search through a list of users.";
+            ViewData["Message"] = "Your application description page.";
 
             return View();
         }
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Patrick Zachman";
+            ViewData["Message"] = "Your contact page.";
 
             return View();
         }

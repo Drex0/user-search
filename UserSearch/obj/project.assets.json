@@ -13133,11 +13133,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Bit Bucket\\UserSearch\\UserSearch\\UserSearch.csproj",
+      "projectUniqueName": "C:\\Users\\pzachman\\OneDrive\\GitHub\\User-Search\\UserSearch\\UserSearch.csproj",
       "projectName": "UserSearch",
-      "projectPath": "C:\\Bit Bucket\\UserSearch\\UserSearch\\UserSearch.csproj",
+      "projectPath": "C:\\Users\\pzachman\\OneDrive\\GitHub\\User-Search\\UserSearch\\UserSearch.csproj",
       "packagesPath": "C:\\Users\\pzachman\\.nuget\\packages\\",
-      "outputPath": "C:\\Bit Bucket\\UserSearch\\UserSearch\\obj\\",
+      "outputPath": "C:\\Users\\pzachman\\OneDrive\\GitHub\\User-Search\\UserSearch\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
