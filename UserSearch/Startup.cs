@@ -26,7 +26,7 @@ namespace UserSearch
         {
             services.AddMvc();
 
-            services.AddDbContext<UserContext>(options =>
+            services.AddDbContext<Data.UserContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));            
         }
 
